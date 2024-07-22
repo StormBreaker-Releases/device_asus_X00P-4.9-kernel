@@ -1,0 +1,4 @@
+/vendor/lib/modules/efivarfs.ko:
+/vendor/lib/modules/lcd.ko:
+/vendor/lib/modules/rdbg.ko:
+/vendor/lib/modules/br_netfilter.ko:
